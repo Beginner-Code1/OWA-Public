@@ -1,11 +1,10 @@
 
 import pandas as pd
-import plotly.express as px
-import plotly.figure_factory as ff
+
 import seaborn as sns
 import streamlit as st
 import scipy
-from matplotlib import pyplot as plt
+
 
 import helper
 import preprocessor
