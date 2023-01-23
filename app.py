@@ -6,7 +6,7 @@ import preprocessor
 
 
 
-df = preprocessor.preprocess(df, region_df)
+
 
 st.sidebar.title("Olympics Analysis")
 st.sidebar.image('https://i.pinimg.com/736x/5a/29/ef/5a29ef79dfdd7c0341e38d1834c8e9bc.jpg')
